@@ -1,0 +1,41 @@
+<table class="cubeAd">
+	<tr>
+		<td class="adLabel">Advertisement</td>
+	</tr>
+	<tr>
+		<td valign="middle">
+			<div class="miscAd cube">	
+				
+				<div id="cubeContainer">
+					<iframe id="CubeAd" name="CubeAd" align="center" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+				</div>
+				
+				<noscript> <a href="http://ad.doubleclick.net/jump/trb.latimes/news/blog/laplaza;sz=300x250;ord=123456789?';target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/news/blog/laplaza;sz=300x250;ord=123456789?'; width="300" height="250" border="0" alt=""></a> </noscript>
+				
+				<!-- End ad tag -->
+			
+			</div>
+		</td>
+	</tr>
+</table>
+
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style="overflow: visible; border:0; background-color:#CCCCCC; margin:0; padding:0;" marginwidth="0" marginheight="0">
+		<div>
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+
+				document.write('<iframe id="dclk' + ord+'" src="" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000">'); if (navigator.userAgent.indexOf("Gecko")==-1) { document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/news/blog/laplaza;!category=net;pos=1;tile=2;ptype=sf;sz=300x250;abr=!ie;;ord=123456789?" type="text/javascript"><\/script>');
+				}
+				document.write('</iframe>');
+				if (document.getElementById('dclk'+ord+'' )) { document.getElementById('dclk'+ord+'').src = 'http://ad.doubleclick.net/adi/trb.latimes/news/blog/laplaza;!category=net;pos=1;tile=2;ptype=sf;sz=300x250;ord=123456789?'; }
+
+			</script>
+		</div>
+	</body>
+</html>
