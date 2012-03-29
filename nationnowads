@@ -1,0 +1,129 @@
+<table class="cubeAd">
+	<tr>
+		<td class="adLabel">Advertisement</td>
+	</tr>
+	<tr>
+		<td valign="middle">
+			<div class="miscAd cube">	
+				
+				<div id="cubeContainer">
+				
+					<iframe id="CubeAd" name="CubeAd" align="center" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+				
+				</div>
+				
+<noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/nationnow;ptype=sf;pos=1;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/nationnow;ptype=sf;pos=1;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+				
+				<!-- End ad tag -->
+			
+			</div>
+		</td>
+	</tr>
+</table>
+
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style="overflow: visible; border:0; background-color:#CCCCCC; margin:0; padding:0;" marginwidth="0" marginheight="0">
+		<div>
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+
+document.write('<iframe id="dclk' + ord+'" src="" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000">'); if (navigator.userAgent.indexOf("Gecko")==-1) { document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/nationnow;tile=2;ptype=sf;pos=1;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+}
+document.write('</iframe>');
+if (document.getElementById('dclk'+ord+'' )) { document.getElementById('dclk'+ord+'').src = 'http://ad.doubleclick.net/adi/trb.latimes/nationnow;!category=net;pos=1;tile=2;ptype=sf;sz=300x250;ord=123456789?'; }
+
+			</script>
+		</div>
+	</body>
+</html>
+
+
+<table class="cubeAd">
+<tr><td class="adLabel">Advertisement</td></tr>
+<tr><td valign="middle">
+<div class="miscAd cube">
+
+
+<!-- begin ad tag  (tile=3) --><script language="JavaScript"  type="text/javascript">ord=Math.random()*10000000000000000;document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/nationnow;tile=3;ptype=sf;pos=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');</script><noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/nationnow;ptype=sf;pos=2;tile=3;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/nationnow;ptype=sf;pos=2;tile=3;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript><!-- End ad tag -->
+
+
+
+
+</div></td></tr></table>
+
+
+
+<div id="leaderContainer">
+	<iframe id="BannerAd" name="BannerAd" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="728" height="90"></iframe>
+</div>
+
+<noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/nationnow;ptype=sf;pos=t;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/nationnow;ptype=sf;pos=t;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body style="overflow: visible; border:0;" marginwidth="0" marginheight="0">
+		<div>
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+
+document.write('<iframe id="dclk' + ord+'" src="" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000">'); if (navigator.userAgent.indexOf("Gecko")==-1) { document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/nationnow;tile=1;ptype=sf;dcopt=ist;pos=t;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+}
+document.write('</iframe>');
+if (document.getElementById('dclk'+ord+'' )) { document.getElementById('dclk'+ord+'').src = 'http://ad.doubleclick.net/adi/trb.latimes/nationnow;!category=net;pos=t;tile=1;ptype=sf;sz=728x90;ord=123456789?'; }
+
+			</script>
+		</div>
+	</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body style="overflow: visible; border:0; margin:0 auto;" marginwidth="0" marginheight="0">
+		<div align="center">
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+				
+				
+document.write('<iframe id="dclk' + ord+ '" src="" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000">'); if (navigator.userAgent.indexOf("Gecko")==-1) { document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/tech/blog;tile=4;ptype=sf;pos=1;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+}
+document.write('</iframe>');
+if (document.getElementById('dclk'+ord+'' )) { document.getElementById('dclk'+ord+'').src = 'http://ad.doubleclick.net/adi/trb.latimes/nationnow;!category=net;pos=1;tile=3;ptype=sf;sz=160x600;ord=123456789?'; }
+				
+			</script>
+		</div>
+	</body>
+</html>
+
+
+
+
+<div align="center">
+<div id="skyContainer">
+<iframe id="SkyAd" name="SkyAd" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" height="600"></iframe>
+</div>
+
+<noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/tech/blog;ptype=sf;pos=1;tile=4;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/tech/blog;ptype=sf;pos=1;tile=4;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+
+</div>
