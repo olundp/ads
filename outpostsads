@@ -1,0 +1,20 @@
+<table class="cubeAd">
+	<tr>
+		<td class="adLabel">Advertisement</td>
+	</tr>
+	<tr>
+		<td valign="middle">
+			<div class="miscAd cube">	
+				
+				<div id="cubeContainer">
+					<iframe id="CubeAd" name="CubeAd" align="center" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+				</div>
+				
+				<noscript> <a href="http://ad.doubleclick.net/jump/trb.latimes/ent/guide/outpost/blog;sz=300x250;ord=123456789?';target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/ent/guide/outpost/blog;sz=300x250;;ord=123456789?'; width="300" height="250" border="0" alt=""></a> </noscript>
+				
+				<!-- End ad tag -->
+			
+			</div>
+		</td>
+	</tr>
+</table>
