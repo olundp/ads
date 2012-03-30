@@ -1,0 +1,110 @@
+<table class="cubeAd">
+	<tr>
+		<td class="adLabel">Advertisement</td>
+	</tr>
+	<tr>
+		<td valign="middle">
+			<div class="miscAd cube">	
+				
+				<div id="cubeContainer">
+					<iframe id="CubeAd" name="CubeAd" align="center" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="300" height="250"></iframe>
+				</div>
+				
+				<noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/ent/news/tv/blogs;ptype=sf;pos=1;tile=3;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/ent/news/tv/blogs;ptype=sf;pos=1;tile=3;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+				
+				<!-- End ad tag -->
+			
+			</div>
+		</td>
+	</tr>
+</table>
+
+
+<!-- begin ad tag  (tile=1) -->
+<script language="JavaScript"  type="text/javascript">
+<!--
+ord=Math.random()*10000000000000000;
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/entertainment/news/tv/blogs;pos=2;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+// -->
+</script>
+<noscript><a href="http://ad.doubleclick.net/adj/trb.latimes/entertainment/news/tv/blogs;pos=2;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/adj/trb.latimes/entertainment/news/tv/blogs;pos=2;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt="advertisement" /></a></noscript>
+<!-- End ad tag -->
+<br clear="all" />
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style="overflow: visible; border:0; background-color:#CCCCCC; margin:0; padding:0;" marginwidth="0" marginheight="0">
+		<div>
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+
+				document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/ent/news/tv/blogs;tile=3;ptype=sf;pos=1;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+			</script>
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body style="overflow: visible; border:0;" marginwidth="0" marginheight="0">
+		<div align="center">
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+				
+				document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/ent/news/tv/blogs;tile=1;ptype=sf;pos=t;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+			
+			</script>
+		</div>
+	</body>
+</html>
+
+
+<div align="center">
+
+<div id="skyContainer">
+	<iframe id="SkyAd" name="SkyAd" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" height="600"></iframe>
+</div>
+
+<noscript><a href="http://ad.doubleclick.net/jump/trb.latimes/ent/news/tv/blogs;ptype=sf;pos=1;tile=4;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.latimes/ent/news/tv/blogs;ptype=sf;pos=1;tile=4;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+<!-- End ad tag -->
+
+</div>
+
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body style="overflow: visible; border:0;" marginwidth="0" marginheight="0">
+		<div align="center">
+			<script language="JavaScript"  type="text/javascript">
+				inDapIF=true;
+				inDapMgrIf=true;
+				ord=Math.random()*10000000000000000;
+				
+				document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.latimes/ent/news/tv/blogs;tile=4;ptype=sf;pos=1;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+			</script>
+		</div>
+	</body>
+</html>
